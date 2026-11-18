@@ -107,10 +107,6 @@ export default function Dashboard() {
         {/* Footer */}
         <footer className="border-t border-border/50 pt-6 mt-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
-            <div className="flex items-center gap-2">
-              <div className="h-2 w-2 rounded-full bg-accent" />
-              <span>All data is anonymized and HIPAA compliant</span>
-            </div>
             <div>
               <span>Last updated: {lastUpdated || "Loading..."}</span>
             </div>

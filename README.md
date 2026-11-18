@@ -34,7 +34,7 @@ Everything else on the screen is fixed text, written to show what the product wo
 - the cards for nurses monitored, hydration alerts and time to hydrate, and their trend arrows
 - the risk indicator
 - the "AI Forecast" panel, which is hard-coded sample text and not a forecast model
-- the hospital name, the department and the compliance line in the footer
+- the hospital name and the department
 
 ## Stack
 
